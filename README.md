@@ -2,7 +2,7 @@
 Tiny 2D vector math library for JavaScript.
 
 # Description
-tinyvec2.js is a couple-of-lines long vector library designed with readability in mind. I found myself writing something similar many times, either when explaning vector math to my peers, or as part of quick experiments where I did not want to deal with managing dependencies.
+tinyvec2.js is a couple-of-lines long vector library designed with readability in mind. I found myself writing something similar many times, either when explaining vector math to my peers, or as part of quick experiments where I did not want to deal with managing dependencies.
 
 While I enjoyed writing vector math functions every single time, sometimes the development momentum of what I really needed to build got lost. I wrote this piece of code so it is less likely happen again.
 
